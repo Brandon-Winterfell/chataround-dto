@@ -1,0 +1,1 @@
+chataround-dto. Dto's to use in the chataround project
